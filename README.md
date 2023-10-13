@@ -3,7 +3,6 @@
 
 **Kingstell1/Kingstell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects for Business Intelligence, banking compliance, ACTIMIZE.
 - 🌱 I’m currently learning SQL and Python.
